@@ -1,4 +1,4 @@
-## Hello, I'm Brett 🙋‍♂️ welcome to my GitHub!
+## Hello, I'm Brett 🙋‍♂️ Welcome to my GitHub!
 ---
 ## About me:
 
