@@ -2,7 +2,7 @@
 ---
 ## About me:
 
-- 👨‍💻 I'm currently studying Full Stack Web Development
+- 👨‍💻 I'm a certified Full Stack Web Developer from The Coding Boot Camp at UCI
 - 💻 I'm learning React.js 
 - 📧 You can reach me at <brettstephenhockridge@yahoo.com>.
 - 👀 Check out my portfolio [Brett Hockridge's Portfolio](https://brobrett.github.io/FullStack-Portfolio/)
